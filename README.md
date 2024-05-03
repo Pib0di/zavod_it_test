@@ -1,16 +1,12 @@
-# zavod_it_test
+Тестовое задание для позиции разработчик мобильных приложений
 
-A new Flutter project.
+На Кроссплатформенном решении Flutter требуется разработать простое демо-приложение, состоящее следующее: 
+-2 пункта меню (Menu, Map)
+-Вертикальное меню, которое открывается при клике на Menu и содержит следующие пункты: Profile, Support, History (Их можно заполнить на свое усмотрение)
+-При клике на Map открывается карта (Yandex, Google) на которой размещены 7 случайных точек на карте. 
+-При клике на каждую из точек появляется всплывашка с описанием, до которой можно построить навигацию
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Pib0di/zavod_it_test_flutter/assets/83059277/4c5d248f-8a66-46cf-8c42-98056fb1fda9)
+![image](https://github.com/Pib0di/zavod_it_test_flutter/assets/83059277/52dcc1bb-17c9-4bd2-a46d-504f2c85d5f2)
+![image](https://github.com/Pib0di/zavod_it_test_flutter/assets/83059277/783dafed-9bd6-48bf-a048-98b5d9372295)
+![image](https://github.com/Pib0di/zavod_it_test_flutter/assets/83059277/ee7143a1-0463-4be7-97ec-b7c38e2e65b5)
